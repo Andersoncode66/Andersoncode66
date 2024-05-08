@@ -20,9 +20,8 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncode66&layout=compact)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncode66)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center" valign="top"><br>
   <img align="center" alt="andersoncode66-Java" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg" />
