@@ -9,3 +9,29 @@
 
 
 
+
+
+
+
+
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="gusdev-Java" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Java-Dark.svg" />
+
+  <img align="center" alt="gusdev-Spring" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Spring-Dark.svg"/>
+
+  <img align="center" alt="gusdev-React" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg"/>
+
+  <img align="center" alt="gusdev-AWS" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/AWS-Dark.svg"/>
+
+  <img align="center" alt="gusdev-Docker" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Docker.svg"/>
+
+  <img align="center" alt="gusdev-Postgresql" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/PostgreSQL-Dark.svg"/>   
+
+  <img align="center" alt="gusdev-sql" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/MySQL-Dark.svg"/>
+
+  <img align="center" alt="gusdev-Git" height="60" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg"/>
+
+</div><br>
+
+
