@@ -21,7 +21,7 @@
 
 
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gusdev-r&bg_color=0d1117&color=6A5ACD&line=D3D3D3&point=6A5ACD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
