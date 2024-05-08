@@ -22,7 +22,7 @@
 
 
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andersoncode66-r&show_icons=true&count_private=true&hide_border=false&title_color=D3D3D3&icon_color=6A5ACD&text_color=D3D3D3&bg_color=0d1117" alt="Anderson Sá github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andersoncode66r&show_icons=true&count_private=true&hide_border=false&title_color=D3D3D3&icon_color=6A5ACD&text_color=D3D3D3&bg_color=0d1117" alt="Anderson Sá github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdev-r&layout=compact&hide_border=false&title_color=DCDCDC&text_color=DCDCDC&bg_color=0d1117" />
 </div>
 
