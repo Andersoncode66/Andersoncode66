@@ -7,8 +7,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anderson Sá Santos&bg_color=090105&color=100f10&line=651560&point=7f5606&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anderson&bg_color=000000&color=e3e3e3&line=8c4087&point=7f5606&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
