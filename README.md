@@ -9,6 +9,25 @@
 - 👯 Estou procurando colaborar. Sou um entusiasta da tecnologia e do compartilhamento de conhecimento, e estou em busca de oportunidades para colaborar em sites como Dev e Medium. Com uma paixão pelo desenvolvimento de software, tenho o objetivo de contribuir com artigos sobre temas relevantes, desde conceitos fundamentais até tendências emergentes. Meu compromisso é oferecer conteúdo de qualidade, compartilhando insights e experiências para enriquecer a comunidade de desenvolvedores.
 - 🤔 Como estudante apaixonado por Java, estou iniciando minha jornada de preparação para o exame da AWS. Busco apoio e orientação para aprimorar minhas habilidades em desenvolvimento e nuvem, com o objetivo de contribuir significativamente para projetos inovadores e me destacar como profissional na área de tecnologia.
 
+Áreas de Estudos e futuras especialização:
+- Java
+- Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Spring Cloud, Hibernate
+- Django: Django Rest; Flask; 
+- SQL e NoSQL
+- PostgreSQL; MySQL; MongoDB
+- Docker
+- Git; Git Hub; GitLab
+- Teste de unidade e teste de integração (Mockito; jUnit; MockMvc; RestAssured; PyTest; Jest) 
+- RabbitMQ
+- Swagger e OpenAPI
+- AWS EC2 (básico)
+- HTML, CSS 
+- TypeScript; Express; React;
+- Metodologia ágil (Scrum - Kanban - Extreme Programming)
+
+Entre em contato comigo e confira meu trabalho.
+Contatos - https://www.linkedin.com/in/anderson-s%C3%A1-santos-a543311b3/
+E-mail - Andersoncode66@gmail.com
 
 
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
