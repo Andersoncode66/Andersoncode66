@@ -12,7 +12,7 @@
 Áreas de Estudos e futuras especialização:
 - Java
 - Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Spring Cloud, Hibernate
-- Django: Django Rest; Flask; 
+- Django: Django Rest; Flask;
 - SQL e NoSQL
 - PostgreSQL; MySQL; MongoDB
 - Docker
